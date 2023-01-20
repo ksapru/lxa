@@ -1,1 +1,1 @@
-<img src="./src/chess.png" height="200px" width="200px">
+<img src="./src/chess.png" height="400px" width="400px">
